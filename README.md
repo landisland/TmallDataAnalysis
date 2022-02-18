@@ -4,7 +4,7 @@ Libraries:
 * pandas
 * [pyecharts](https://pyecharts.org/#/)
 
-You can read the jupyter notebook [here]()
+You can read the jupyter notebook [here](https://nbviewer.org/github/landisland/TmallDataAnalysis/blob/main/TMall.ipynb)
 
 ## Screenshots
 
